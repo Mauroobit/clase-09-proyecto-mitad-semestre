@@ -44,12 +44,6 @@ Este codigo está basado en el trabajo de [Connor Nishijima](https://github.com/
 
 ## Conclusiones
 
-Concluimos el proyecto sabiendo como utilizar un potenciometro en Arduino UNO para ajustar el volumen de un speaker, si bien sigue teniendo una representabilidad basica del volumen, podemos apreciar el potencial que este puede tener en un futuro (Lo cual puede ser con un arduino leonardo o aplicando el [HoodLoader2](https://github.com/NicoHood/HoodLoader2)
+Concluimos el proyecto sabiendo como utilizar un potenciometro en Arduino UNO para ajustar el volumen de un speaker, si bien sigue siendol una representación muy basica de lo que es el volumen y el sonido, pero de igual manera podemos apreciar el potencial que este puede tener en un futuro para ser utilizado en un PC mediante usb u otra conexión inalambrica (Lo cual puede ser con un Arduino Leonardo o aplicando el [HoodLoader2](https://github.com/NicoHood/HoodLoader2))
 
  
-
-lo más difícil de este proyecto fue bla.
-
-cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
-
-este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
