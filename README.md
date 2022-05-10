@@ -24,7 +24,7 @@ Los materiales son:
 * 4 Resistores
 * Cable Usb tipo B a tipo A
 
-Ademas de los materiales señalados es necesario añadir la siguiente library ![LibraryVolume](Volume.png)
+Ademas de los materiales señalados es necesario añadir la siguiente library ![LibraryVolume](imagenes/Volume.png)
 
 ## armado de circuito
 
