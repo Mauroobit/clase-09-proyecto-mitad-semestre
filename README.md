@@ -13,13 +13,13 @@ Los integrantes de este proyecto son:
 
 ## lista de materiales
 
-los materiales son:
+Los materiales son:
 
 * Arduino Uno
-* protoboard
-* cables
-* potenciómetro
-* speaker 8 ohm de 0.5w
+* Protoboard
+* Cables
+* Potenciómetro
+* Speaker 8 ohm de 0.5w
 * 4 LEDs
 * 4 Resistores
 * Cable Usb tipo B a tipo A
@@ -40,7 +40,7 @@ después hacemos Y y se ve así.
 
 el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [codigo_arduino/codigo_arduino.ino](codigo_arduino/codigo_arduino.ino).
 
-este código está basado en los ejemplos de Arduino blabla y en los ejemplos de esta clase en los enlaces [bla](blabla) y [bla](blabla).
+Este codigo está basado en el trabajo de [Connor Nishijima](https://github.com/connornishijima/arduino-volume1) y [Joan Carles Francesc Fernández López](https://www.youtube.com/watch?v=qqc2aHCtWco).
 
 primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
 
