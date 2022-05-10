@@ -30,13 +30,7 @@ Ademas de los materiales señalados es necesario añadir la siguiente library ![
 
 estos son los pasos para armar el circuito.
 
-primero hacemos X y se ve así.
-
-![texto descripción de la foto](imagenes/00-ejemplo.jpg)
-
-después hacemos Y y se ve así.
-
-![texto descripción de la foto](imagenes/00-ejemplo.jpg)
+![ImagenCircuitoThinkerCad](imagenes/circuito.jpg)
 
 ## código para microcontrolador Arduino
 
