@@ -53,3 +53,6 @@ lo más difícil de este proyecto fue bla.
 cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
 
 este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
+
+## Bibliografia
+https://www.youtube.com/watch?v=qqc2aHCtWco (https://www.youtube.com/watch?v=qqc2aHCtWco)
