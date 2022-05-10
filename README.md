@@ -24,6 +24,8 @@ Los materiales son:
 * 4 Resistores
 * Cable Usb tipo B a tipo A
 
+Ademas de los materiales señalados es necesario añadir la siguiente library ![LibraryVolume](Volume.png)
+
 ## armado de circuito
 
 estos son los pasos para armar el circuito.
