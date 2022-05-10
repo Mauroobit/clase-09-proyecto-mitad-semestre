@@ -50,9 +50,9 @@ para incluir imágenes que sean visibles en este documento, es igual que un enla
 
 a continuación les dejo un breve borrador con ejemplos, que si completan, tendrán todos los puntos de la pauta, suerte!
 
-## acerca de
+## Acerca de
 
-este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
+Este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
 Los integrantes son: 
 * Jose Moya
@@ -66,7 +66,7 @@ los materiales son:
 * protoboard
 * cables
 * potenciómetro
-* etc
+* speaker 8 ohm de 0.5w
 
 ## armado de circuito
 
