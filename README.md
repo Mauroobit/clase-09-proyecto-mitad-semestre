@@ -3,7 +3,9 @@
 
 Este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
-Los integrantes son: 
+Consiste de una barra de progreso de volumen basada en un potenciometro y 4 LEDs. El concepto principal de este proyecto era hacer un controlador de multimedia USB  haciendo uso del arduino UNO, pero esta idea fue truncada ya que el chip Atmega 16u2 del UNO no es capaz de transmitirse como HID. Es posible hacerlo con otras versiones como el Arduino Leonardo. (Teoricamente el UNO es capaz de hacerlo tambien utilizando la library [HoodLoader2](https://github.com/NicoHood/HoodLoader2), pero es una alteración al firmware y no queriamos exponernos a destruir nuestras placas o sobrecomplejizar el proceso) 
+
+Los integrantes de este proyecto son: 
 * Jose Moya
 * Mauro Saravia
 
@@ -16,6 +18,9 @@ los materiales son:
 * cables
 * potenciómetro
 * speaker 8 ohm de 0.5w
+* 4 LEDs
+* 4 Resistores
+* Cable Usb tipo B a tipo A
 
 ## armado de circuito
 
@@ -43,7 +48,7 @@ luego en loop() leemos las entradas y usamos la salida Z para lograr prender una
 
 ## conclusiones
 
-en este proyecto tuvimos los siguientes aprendizajes: 
+Concluimos el proyecto sabiendo como utilizar un potenciometro en Arduino UNO para ajustar el volumen de un speaker 
 
 * botón pulsador
 * circuito para 
@@ -53,7 +58,3 @@ lo más difícil de este proyecto fue bla.
 cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
 
 este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
-
-## Bibliografia
-* [POTENCIOMETRO CON 4 LEDS EN CASCADA CON ARDUINO](https://www.youtube.com/watch?v=qqc2aHCtWco)
-* [Arduino tone() just got 8-bit volume control](https://github.com/connornishijima/arduino-volume1)
