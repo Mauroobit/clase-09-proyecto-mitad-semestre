@@ -55,4 +55,5 @@ cometimos los siguientes errores durante el armado del circuito y en el código,
 este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
 
 ## Bibliografia
-https://www.youtube.com/watch?v=qqc2aHCtWco (https://www.youtube.com/watch?v=qqc2aHCtWco)
+* [POTENCIOMETRO CON 4 LEDS EN CASCADA CON ARDUINO](https://www.youtube.com/watch?v=qqc2aHCtWco)
+* [Arduino tone() just got 8-bit volume control](https://github.com/connornishijima/arduino-volume1)
