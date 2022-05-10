@@ -53,7 +53,9 @@ a continuación les dejo un breve borrador con ejemplos, que si completan, tendr
 
 este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
-los integrantes son Jose Moya y Mauro Saravia
+los integrantes son: 
+*Jose Moya
+*Mauro Saravia
 
 ## lista de materiales
 
