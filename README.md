@@ -11,7 +11,7 @@ Los integrantes de este proyecto son:
 * Jose Moya
 * Mauro Saravia
 
-## lista de materiales
+## Lista de materiales
 
 Los materiales son:
 
@@ -26,30 +26,27 @@ Los materiales son:
 
 Ademas de los materiales señalados es necesario añadir la siguiente library ![LibraryVolume](imagenes/Volume.png)
 
-## armado de circuito
+## Armado de circuito
 
 estos son los pasos para armar el circuito.
 
 ![ImagenCircuitoThinkerCad](imagenes/circuito.jpg)
 
-## código para microcontrolador Arduino
+## Código para microcontrolador Arduino
 
 el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [codigo_arduino/codigo_arduino.ino](codigo_arduino/codigo_arduino.ino).
 
 Este codigo está basado en el trabajo de [Connor Nishijima](https://github.com/connornishijima/arduino-volume1) y [Joan Carles Francesc Fernández López](https://www.youtube.com/watch?v=qqc2aHCtWco).
 
-primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
+## Resultado Final
 
-primero en setup() hacemos que los pines X e Y sean entradas digitales, el pin Z sea salida digital, y abrimos la comunicación serial.
+![](imagenes/proceso(11).jfif)
 
-luego en loop() leemos las entradas y usamos la salida Z para lograr prender una luz LED.
+## Conclusiones
 
-## conclusiones
+Concluimos el proyecto sabiendo como utilizar un potenciometro en Arduino UNO para ajustar el volumen de un speaker, si bien sigue teniendo una representabilidad basica del volumen, podemos apreciar el potencial que este puede tener en un futuro (Lo cual puede ser con un arduino leonardo o aplicando el [HoodLoader2](https://github.com/NicoHood/HoodLoader2)
 
-Concluimos el proyecto sabiendo como utilizar un potenciometro en Arduino UNO para ajustar el volumen de un speaker 
-
-* botón pulsador
-* circuito para 
+ 
 
 lo más difícil de este proyecto fue bla.
 
