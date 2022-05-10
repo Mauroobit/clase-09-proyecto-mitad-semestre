@@ -33,6 +33,7 @@ para hacer un nuevo párrafo, hay que dejar una línea en blanco entremedio.
   * las sub-listas
   * son así
   * con dos espacios de indentación
+  * wena po
 
 los enlaces se hacen con corchetes y después paréntesis. el texto dentro de corchetes es lo que se ve en el enlace, y el texto dentro de paréntesis es dónde va ese enlace. les pido que sea el mismo texto. aquí ejemplos de enlaces a web y a otros archivos dentro de este repositorio.
 
