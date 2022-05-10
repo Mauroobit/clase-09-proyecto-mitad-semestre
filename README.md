@@ -40,7 +40,7 @@ Este codigo está basado en el trabajo de [Connor Nishijima](https://github.com/
 
 ## Resultado Final
 
-![](imagenes/proceso(11).jfif)
+![fotoresultado final](imagenes/final.jpg)
 
 ## Conclusiones
 
