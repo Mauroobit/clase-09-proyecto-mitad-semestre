@@ -1,15 +1,5 @@
 # clase-09-proyecto-mitad-semestre
 
-## intsrucciones
-
-* hacer login en GitHub.com
-* entrar a este repositorio disponible en [https://github.com/aud5i022-2022-1/clase-09-proyecto-mitad-semestre](https://github.com/aud5i022-2022-1/clase-09-proyecto-mitad-semestre)
-* hacer click en el botón "Fork" de este repositorio para copiarlo a tu cuenta personal.
-* enviar el enlace de tu repositorio y la lista de integrantes a través de u-cursos al instructor.
-* ahora puedes editar este archivo siguiendo este enlace [README.md](README.md) y haciendo click en el ícono de lápiz para editar.
-* recomendación: grabar tus avances seguido, para que no pierdas tu avance, para esto, baja al final de la sección de edición, elige la opción " Commit directly to the main branch." luego haz click en el botón verde "Commit changes". repite esto cada vez que quieras grabar cambios.
-* para subir imágenes, haz click en este enlace a la carpeta [imagenes/](imagenes/), luego haz click en el botón "Add files" y selecciona "Upload files". arrastra tus imágenes o añadelas con el enlace "choose your files". luego elige la opción "Commit directly to the main branch" y haz click en el botón verde "Commit changes"
-
 ## contenidos de este repositorio
 
 * carpeta [codigo_arduino/](codigo_arduino/): carpeta para tener el codigo de tu proyecto
